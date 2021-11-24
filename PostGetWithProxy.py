@@ -1,6 +1,6 @@
 # Testing get & post behing  proxy 
 # Beware 
-# Developed by T++
+# Developed by Lateraluz
 # 23-11-2021
 
 # Advice proxy : { "https": "http://192.168.124.110:3128" } notice https
